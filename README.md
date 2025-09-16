@@ -1,2 +1,3 @@
-# Bootcamp-Python-AI
-# Bootcamp-Python-AI
+# Bootcamp-Python-AI  
+
+https://www.udemy.com/course/programacao-python-do-basico-ao-avancado/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Search_DSA_Alpha_Profa_la.PT_cc.BR_Subs&campaigntype=Search&portfolio=Brazil&language=PT&product=Course&test=&audience=DSA&topic=Python&priority=Alpha&funnel=Conversion&utm_content=&utm_term=_._ag_180452163490_._ad_773550771005_._kw__._de_c_._dm__._pl__._ti_aud-2268488108639%3Adsa-2439861533451_._li_9197522_._pd__._&matchtype=&gad_source=1&gad_campaignid=23007120602&gbraid=0AAAAADROdO0mAAC4W_TRgjzwyeCmykcq5&gclid=CjwKCAjwlaTGBhANEiwAoRgXBev3Pp-wPb1CKHrbt8ISPZtsqw0MR4HcwNtvWCmalwQtMQJJ7FmC2RoC1B8QAvD_BwE&couponCode=PMNVD2025
